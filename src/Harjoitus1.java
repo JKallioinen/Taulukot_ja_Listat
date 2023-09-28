@@ -33,7 +33,7 @@ public class Harjoitus1 {
         String toiveEsine;
         
         //Kysytään esinettä
-        System.out.println("Mitä esinettä etsit?");
+        System.out.println("Mitä esinettä etsit? (Kirjoita haku pienillä kirjaimilla)");
         toiveEsine = in.nextLine();
         
         //Käydään lista läpi
